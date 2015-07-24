@@ -41,6 +41,7 @@ library
                      HIndent.Styles.ChrisDone
                      HIndent.Styles.JohanTibell
                      HIndent.Styles.Gibiansky
+                     HIndent.Styles.Soostone
   build-depends:     base >= 4.7 && <5
                    , data-default
                    , haskell-src-exts == 1.16.*
